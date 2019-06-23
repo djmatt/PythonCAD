@@ -104,4 +104,4 @@ ENV/
 .vscode/
 
 #Generated stl files
-.stl
+*.stl
